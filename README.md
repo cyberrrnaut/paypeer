@@ -32,3 +32,7 @@ This will install all the required packages listed in the `package.json` file.
 ## Additional Notes
 
 - If you encounter any issues during installation or have questions about the setup, refer to the repository's documentation or raise an issue on the [GitHub page](https://github.com/cyberrrnaut/paypeer/issues).
+
+
+
+![alt text](image.png)
